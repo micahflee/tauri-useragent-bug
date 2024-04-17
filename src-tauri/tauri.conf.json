@@ -11,7 +11,8 @@
       {
         "title": "tauri-useragent-bug",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "userAgent": "this is a custom user agent string"
       }
     ],
     "security": {
